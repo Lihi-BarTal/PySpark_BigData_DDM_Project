@@ -1,19 +1,17 @@
-# 📊 Distributed Information Management & Big Data Analysis
+# 📊 Big Data Management & Analytics Portfolio
 
-**Python Project Portfolio using PySpark in a Distributed Environment**
-
----
+**Python Project Portfolio for Distributed Information Management**
 
 ## 💡 Overview
-This repository showcases solutions for complex Big Data challenges, focusing on distributed data management, optimization, and advanced analytics using the **Apache Spark** framework (implemented in PySpark/Databricks Notebooks).
+This repository showcases solutions for complex **Big Data** challenges. The projects focus on managing and analyzing large-scale datasets, implemented in **Python** within a distributed environment.
 
 ## 🎯 Core Technical Areas
 
 The portfolio demonstrates expertise in three key phases of large-scale data processing:
 
-1.  **Data Preparation & Feature Engineering:** Implementing complex data cleaning and transformation pipelines using PySpark DataFrames and Spark SQL.
-2.  **Strategic Optimization:** Utilizing Spark for strategic analysis and **Influence Maximization** queries to optimize broadcasting decisions.
-3.  **Advanced Analytics:** Implementing **Clustering Algorithms** (e.g., for viewing habits) and performing **Real-Time Streaming Analysis** on evolving data.
+1.  **Data Preparation & Feature Engineering:** Implementing complex data cleaning pipelines and generating necessary features based on intricate business logic.
+2.  **Strategic Optimization:** Using advanced querying for strategic analysis and scenarios like **Influence Maximization**.
+3.  **Advanced Analytics:** Implementing **Clustering Algorithms** and performing **Real-Time Streaming Analysis** on evolving data.
 
 ## 📄 Full Methodology Reports (DRY Files)
 
@@ -21,6 +19,6 @@ The portfolio demonstrates expertise in three key phases of large-scale data pro
 
 | Report File | Focus Area | Code File |
 | :--- | :--- | :--- |
-| **`project1_part1_dry.pdf`** | Data Cleaning and Complex Filtering. | `project1_part1.ipynb` |
+| **`project1_part1_dry.pdf`** | Data Preparation and Complex Filtering. | `project1_part1.ipynb` |
 | **`project1_part2_dry.pdf`** | Strategic Optimization and Audience Influence Maximization. | `project1_part2.ipynb` |
-| **`PROJECT2_DRY.pdf`** | Clustering, Feature Extraction, and Real-Time Streaming Analysis. | `PROJECT2_WET.ipynb` |
+| **`PROJECT2_DRY.pdf`** | Clustering and Real-Time Streaming Data Analysis. | `PROJECT2_WET.ipynb` |
